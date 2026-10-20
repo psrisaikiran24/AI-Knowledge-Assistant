@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+docs/ 
+.env.txt 
+AI-Knowledge-Assistant/ 
+.env. txt 
+AI-Knowledge-Assistant/ 
