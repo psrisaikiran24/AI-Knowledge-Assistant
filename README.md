@@ -1,4 +1,5 @@
-# AI Knowledge Assistant
+# AI Knowledge Assistant<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/e6840232-740c-4901-b257-8716439cf506" />
+
 
 A question-answering assistant that answers questions over your own documents using retrieval-augmented generation (RAG). Answers are grounded in your files and cite the source document they came from.
 
